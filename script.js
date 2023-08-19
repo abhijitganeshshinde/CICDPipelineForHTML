@@ -1,5 +1,6 @@
 const typingElement = document.getElementById('typing-effect');
 const lines = [
+  'Hi',
   'UNIDENTIFIED ORGANIC LIFEFORM DETECTED',
   'RUNNING PROFILE PROTOCOL (RPP) FOR @ABHIJIT',
   'NAME: ABHIJIT SHINDE',
